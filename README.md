@@ -31,3 +31,17 @@ You can reach me at
 - Certificates：
 - Awards：
 - Vonlunteer:
+
+
+![GitHub账户信息统计](https://github-stats.ubrong.com/api?username=Chelsea-19&show_icons=true&theme=tokyonight)
+ 
+
+![GitHub账户最常用语言](https://github-stats.ubrong.com/api/top-langs/?username=Chelsea-19&layout=compact&theme=tokyonight)
+
+
+![GitHub仓库信息卡片](https://github-stats.ubrong.com/api/pin/?username=Chelsea-19&repo=CPT105&theme=dark) 
+
+
+![Visitor Count](https://profile-counter.glitch.me/{Chelsea-19}/count.svg)
+
+
