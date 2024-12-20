@@ -1,6 +1,6 @@
 # Hi there 👋
 
-### I'm Jinglin Liang 梁敬林. I am a Year2 Undergraduate who is studying at XJTLU majoring in Biomedical Statistics. 
+### I'm Jinglin Liang 梁敬林. I am a Year4 Undergraduate who is studying at XJTLU majoring in Biomedical Statistics. 
 
 ## About Me
 
