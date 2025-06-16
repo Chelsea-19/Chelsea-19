@@ -21,7 +21,6 @@
 ## 📫 Let's Connect  
 [![Email](https://img.shields.io/badge/Email-Felix.Liang24@outlook.com-blue?logo=microsoft-outlook)](mailto:Felix.Liang24@outlook.com) 
 [![Phone](https://img.shields.io/badge/Tel-%2B8618931187637-green?logo=telegram)](tel:+8618931187637)
-[![GitHub](https://github.com/Chelsea-19)](GitHub)
 
 
 ![GitHub账户信息统计](https://github-stats.ubrong.com/api?username=Chelsea-19&show_icons=true&theme=tokyonight)
