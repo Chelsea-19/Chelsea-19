@@ -1,36 +1,27 @@
-# Hi there 👋
+# Hi there 👋 I'm Felix Liang
 
-### I'm Jinglin Liang 梁敬林. I am a Year4 Undergraduate who is studying at XJTLU majoring in Biomedical Statistics. 
+### MSc Candidate in Biomedical Data Science @ Nanyang Technological University 
+### Double BSc in Applied Statistics (XJTLU) & Biomedical Statistics (UoL)
 
-## About Me
+## 🔬 Professional Highlights
+- **AI/LLM Research**: Led Asia-Pacific AI in Biomedicine project at PARAXEL, developing Patient Recruitment Agent with LLMs
+- **Deep Learning**: Built CNN/ResNet/U-Net models for medical imaging (lung/kidney analysis) with >90% F1-Score
+- **Data Innovation**: Developed CTGAN models for synthetic data at SAS Institute, created Tableau/Power BI dashboards
+- **Research Fellow**: SURF grants recipient for 3D kidney modeling (ultrasound/MRI fusion) and wearable medtech market analysis
+- **Award Winner**: National Encouragement Scholarship (￥5000), MCM/CUMCM team leader (2022-2023)
 
-- I have learnt a semester of Java programming, but it was just some light stuff (it stopped at OOP).
-- At present, I am learning R and SPSS under the university curriculum arrangement.🔭 In the future, I will learn SAS in the university.
-- Twice participated in mathematical modeling competitions👯
-- Personally, I am taking Andrew Ng's Machine Learning course on Coursera, and seek to be able to conduct actual project training in the future🌱
-- I love photography 📷, traveling ✈️, music🎶, football⚽️(a fan of Chelsea FC)
+## 🛠️ Technical Toolkit
+`Python` `PyTorch` `SQL` `Tableau` `Power BI` `CTGAN` `LLMs` `Structural Equation Modeling` `Clinical Data Analytics`
 
-## Projects
+## 🌱 Current Focus
+- Preparing MSc research in biomedical data science at NTU
+- Authoring systematic reviews on AI in RWD/RWE (Submitted to DIA 2025 Global Annual)
+- Expanding deep learning expertise in medical imaging diagnostics
 
-Here are some of my recent projects:
-
-- [Mathematical Modelling](https://github.com/Chelsea-19/Mathematical-Modelling)
-- [Java Programming](https://github.com/Chelsea-19/CPT105)
-
-## Contact Me📫
-
-You can reach me at 
-- [gmail](chelsea.lyon01@gmail.com).
-- [GitHub](https://github.com/Chelsea-19).
-- WeChat：Idonotknowyouguess
-
-
-
-## Otherwise
-
-- Certificates：
-- Awards：
-- Vonlunteer:
+## 📫 Let's Connect  
+[![Email](https://img.shields.io/badge/Email-Felix.Liang24@outlook.com-blue?logo=microsoft-outlook)](mailto:Felix.Liang24@outlook.com) 
+[![Phone](https://img.shields.io/badge/Tel-%2B8618931187637-green?logo=telegram)](tel:+8618931187637)
+[![GitHub](https://github.com/Chelsea-19)](GitHub)
 
 
 ![GitHub账户信息统计](https://github-stats.ubrong.com/api?username=Chelsea-19&show_icons=true&theme=tokyonight)
