@@ -32,6 +32,4 @@
 ![GitHub仓库信息卡片](https://github-stats.ubrong.com/api/pin/?username=Chelsea-19&repo=CPT105&theme=dark) 
 
 
-![Visitor Count](https://profile-counter.glitch.me/{Chelsea-19}/count.svg)
-
 
