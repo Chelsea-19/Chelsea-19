@@ -39,7 +39,7 @@ My work sits at the intersection of **Artificial Intelligence** and **Biomedicin
 * **HPC Optimization:** Built a large-scale parallel inference pipeline on **High-Performance Computing (HPC)** clusters.
 * **Innovation:** Implemented **Windowed Inference** and temperature calibration to solve instability issues in long-sequence reasoning, significantly improving robustness.
 
-### 🏥 **LLM Agent for Clinical Trials (Parexel)**
+### 🏥 **LLM Agent for Clinical Trials **
 * **Patient Recruitment Agent:** Led the development of an LLM-based system to extract structured data from unstructured clinical texts.
 * **Performance:** Designed advanced Prompt Engineering strategies and semantic matching algorithms, boosting patient-trial matching efficiency by **30%**.
 
