@@ -2,71 +2,52 @@
 
 # Hi, I'm Felix Liang 👋
 
-### NTU Biomedical Data Science | Medical AI Seeker
-**Focusing on LLMs for Healthcare, Genomics, and Medical Imaging**
+### AI Agents × AI4Science
+**Biomedical Data Science · NTU Singapore**
 
-[![Email](https://img.shields.io/badge/Email-Felix.Liang24@outlook.com-blue?logo=microsoft-outlook)](mailto:Felix.Liang24@outlook.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINKEDIN-ID/)
+Building agents for biomedical workflows and studying foundation models for genomics.
 
-<br/>
+[Website](https://chelsea-19.github.io/) · [Email](mailto:Felix.Liang24@outlook.com) · [LinkedIn](https://www.linkedin.com/in/jinglin-liang-585870355/)
 
 </div>
 
-## 🚀 Research Interests & Core Competencies
-My work sits at the intersection of **Artificial Intelligence** and **Biomedicine**. I specialize in deploying Large Language Models (LLMs) for clinical workflows and utilizing Foundation Models for genomic sequence analysis.
+---
 
-* **Genomic AI:** Zero-shot inference with Evo2-40B (StripedHyena architecture).
-* **Clinical NLP:** Automating patient recruitment with LLM agents.
-* **Medical Imaging:** 3D Point Cloud reconstruction & Bayesian Optimization.
+> How can agents and foundation models turn scientific data into traceable, testable reasoning?
+
+I work at the intersection of **agent systems** and **AI for biology and medicine**. My repositories explore two connected questions: how to give agents explicit state, tools, and verifiable evidence; and how to interpret genomic foundation models beyond their raw scores.
+
+## 🤖 AI Agents
+*Structured workflows, evidence grounding, and evaluation.*
+
+**[OrphanCure-AI](https://github.com/Chelsea-19/OrphanCure-AI)**  
+A biomedical research agent for drug-repurposing evidence assessment, connecting literature, target evidence, and knowledge graphs with benchmarks and verifier ablations.  
+↳ [Explore the research demo](https://github.com/Chelsea-19/OrphanCure-AI/tree/main/orphancure_release) · [Evaluation](https://github.com/Chelsea-19/OrphanCure-AI/blob/main/docs/evaluation.md)
+
+**[SimuPatient](https://github.com/Chelsea-19/Simu_Patient)**  
+A stateful medical-education agent with clinical tools, authored safety checks, and action traces for formative feedback and focused retry.  
+↳ [Run locally](https://github.com/Chelsea-19/Simu_Patient#quick-start) · [Workflow evaluation](https://github.com/Chelsea-19/Simu_Patient/tree/main/evaluation)
+
+## 🧬 AI4Science
+*Genomic foundation models, interpretable signals, and efficient learning.*
+
+**[Evo2 Composition-Aware Mapping](https://github.com/Chelsea-19/evo2-composition-aware-mapping)**  
+Separating nucleotide-composition effects from Evo2 sequence scores to build interpretable bacterial genome maps, with held-out evaluation and reproducible figures.  
+↳ [Try the small demo](https://github.com/Chelsea-19/evo2-composition-aware-mapping/blob/main/examples/run_demo.py) · [Reproduction guide](https://github.com/Chelsea-19/evo2-composition-aware-mapping/blob/main/docs/reproduction.md)
+
+**[Evo2 Distillation](https://github.com/Chelsea-19/evo2-distillation)** · *In progress*  
+Exploring uncertainty-aware distillation for genomic region prioritisation, with development/validation separation and Colab workflows; final test evaluation is pending.  
+↳ [Explore the notebooks](https://github.com/Chelsea-19/evo2-distillation/tree/main/notebooks)
+
+## 🔧 How I build
+
+- **Make reasoning inspectable:** explicit state, tool outputs, provenance, and action traces.
+- **Evaluate the system:** baselines, ablations, held-out splits, and failure analysis.
+- **Make research explorable:** small demos, notebooks, and reproducible analysis.
+
+`Python` · `PyTorch` · `Hugging Face` · `Streamlit` · `Linux / HPC`
 
 ---
 
-## 🛠️ Tech Stack for Medical AI
-
-| **Domain** | **Toolkit** |
-| :--- | :--- |
-| **LLMs** | ![HuggingFace](https://img.shields.io/badge/-HuggingFace-FDEE21?logo=huggingface&logoColor=black) `Transformers` `LLMs` `Prompt Engineering` `Agent`|
-| **Deep Learning** | ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white) `DNN` `Gaussian Processes` `Bayesian Optimization` |
-| **Data Eng & HPC** | ![Linux](https://img.shields.io/badge/-Linux_HPC-FCC624?logo=linux&logoColor=black) ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) `SQL` `ETL Pipelines` |
-| **Languages** | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![R](https://img.shields.io/badge/-R-276DC3?logo=r&logoColor=white) ![Shell](https://img.shields.io/badge/-Shell-4EAA25?logo=gnu-bash&logoColor=white) |
-
----
-
-## 🔬 Featured Projects in Biomedicine
-
-### 🧬 **Genomic Language Models: Evo2-40B Implementation**
-* **Zero-shot Inference:** Deployed NVIDIA's **Evo2-40B** (StripedHyena 2 architecture) for unsupervised recognition of bacterial sequence features.
-* **HPC Optimization:** Built a large-scale parallel inference pipeline on **High-Performance Computing (HPC)** clusters.
-* **Innovation:** Implemented **Windowed Inference** and temperature calibration to solve instability issues in long-sequence reasoning, significantly improving robustness.
-
-### 🏥 **LLM Agent for Clinical Trials **
-* **Patient Recruitment Agent:** Led the development of an LLM-based system to extract structured data from unstructured clinical texts.
-* **Performance:** Designed advanced Prompt Engineering strategies and semantic matching algorithms, boosting patient-trial matching efficiency by **30%**.
-
-### 🦴 **3D Medical Reconstruction via Bayesian Optimization**
-* **Algorithm Design:** Developed a 3D point cloud reconstruction framework using **Gaussian Processes** to replace manual parameter tuning.
-* **Results:** Reduced geometric reconstruction error to **2.8%** and improved tuning efficiency by **50%** through a custom multi-objective loss function.
-
----
-
-## 💼 Professional Experience
-
-**Parexel (Clinical Research Organization)** | *AI/LLM Application Intern*
-* Focused on automating clinical trial operations using Generative AI.
-* Optimized rule-based and semantic matching algorithms for patient screening.
-
-**SAS Institute** | *Data Analytics Intern*
-* Built high-dimensional Neural Network (DNN) models (AUC 0.86).
-* Developed automated ETL pipelines processing 100k+ records using Python/SQL.
-
----
-
-
-<div align="center">
-  <img src="https://github-stats.ubrong.com/api?username=Chelsea-19&show_icons=true&theme=tokyonight&hide_border=true" height="150" alt="stats graph"  />
-  <img src="https://github-stats.ubrong.com/api/top-langs/?username=Chelsea-19&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="languages graph" />
-</div>
-
-
-
-
+Open to research conversations and collaborations on **biomedical agents, genomic foundation models, and reproducible AI4Science**.  
+For broader background, visit my [personal website](https://chelsea-19.github.io/).
